@@ -1,5 +1,5 @@
 
-# Project Overview: Hidden Markov Models for ASL Recognition
+# Hidden Markov Models for ASL Recognition Project
 
 This project demonstrates the application of Hidden Markov Models (HMMs) to recognize words from video sequences of American Sign Language (ASL). HMMs are statistical models that assume an underlying process to be a Markov process with hidden states. They are widely used in areas such as natural language processing, bioinformatics, and speech recognition. The hidden states, which are not directly observable, are inferred from the observable events through the model's structure of states and transitions.
 
